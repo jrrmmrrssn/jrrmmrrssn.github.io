@@ -11,7 +11,7 @@
 The Original project as I mentioned was a Jupyter notebook page that displayed a logo and a dropdown menu that when a specific option was selected data was displayed and a plot or graph displayed with that data.
 The project used mongodb, the database was uploaded to mongodb in json format. From thier I created a python file that contained functions connecting to the database as well as create, read, update, and delete functions for the database. Finally, a jupyter notebook file was created, importing the different libraries and python file, the database was called to retrieve data and jupyter dash was used to create an html app that could be displayed as a webpage.
 
-![python file](images/python1.png "python file")
+![python file](images/python1.png=250x250 "python file")
 ![python file](images/python2.png "python file")
 ![jupyter notebook](images/jupyter1.png "jupyter notebook")
 ![jupyter notebook](images/jupyter2.png "jupyter notebook")
