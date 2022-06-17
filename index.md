@@ -6,12 +6,20 @@
   In this project I began by reviewing the original project and running the project to get comfortable with the purpose and functionality. After reviewing I decided I would recreate a webpage that was more user friendly and allowed more functionality in accessing and manipulating the data from the database as well as create a login and register so that only registered users were able to access the webpage to manipulate the database. After downloading the necessary software such as xampp and atom I ran xampp and configured it to run as my local server and ran a test database and query through a small project to make sure everything was operational. I began with the config file that establishes a connection to the database which is simply defining variables for the server login and database access then create a variable that connects to the database or throws an error if there is an error. Then I began the login page by including the connections page as well as a functions page then created code that would query the user database to determine if a user entered information and if they did was that information in the user database. I created the html for the login page and the function page along with the check login function and the random num function to create a user id. Once the login and function pages were complete, I basically copy and pasted the login page to the signup page and adjusted a few things to post to the database and redirect to the login page. I redirected the login page to the index page and began creating the index page by inserting the logo, logout, user greeting, and the table. The table took up too much space, so I adjusted the CSS to put the table in a scroll box. I added the actions to update read and delete each piece of data and redirected those to their own pages. I added a button to filter and add data. Then once the index page was good, I began the update, delete, create, read, and filter pages. Along the way I had run into various issues of missing semicolons and having to research various queries and learn bootstrap among other things to fix the crashed page or add something I wasn’t sure how to add but quickly or eventually found solutions and moved on to the next task.
 
 
-### Markdown
+### Animal Shelter Project
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+The Original project as I mentioned was a Jupyter notebook page that displayed a logo and a dropdown menu that when a specific option was selected data was displayed and a plot or graph displayed with that data.
+The project used mongodb, the database was uploaded to mongodb in json format. From thier I created a python file that contained functions connecting to the database as well as create, read, update, and delete functions for the database. Finally, a jupyter notebook file was created, importing the different libraries and python file, the database was called to retrieve data and jupyter dash was used to create an html app that could be displayed as a webpage.
+![python file](images/python1.png"python file")
+![python file](images/python2.png"python file")
+![python file](images/jupyter1.png"python file")
+![python file](images/jupyter2.png"python file")
+![python file](images/jupyter3.png"python file")
+![python file](images/jupyter4.png"python file")
+![python file](images/jupyter5.png"python file")
+![python file](images/jupyter6.png"python file")
+![python file](images/jupyter7.png"python file")
+![python file](images/logo.png"python file")
 
 # Header 1
 ## Header 2
