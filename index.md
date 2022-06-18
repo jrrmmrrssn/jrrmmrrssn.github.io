@@ -11,6 +11,12 @@
 The Original project as I mentioned was a Jupyter notebook page that displayed a logo and a dropdown menu that when a specific option was selected data was displayed and a plot or graph displayed with that data.
 The project used mongodb, the database was uploaded to mongodb in json format. From thier I created a python file that contained functions connecting to the database as well as create, read, update, and delete functions for the database. Finally, a jupyter notebook file was created, importing the different libraries and python file, the database was called to retrieve data and jupyter dash was used to create an html app that could be displayed as a webpage.
 
+A link to my review of the original Animal Shelter Project:
+
+[Link](https://drive.google.com/file/d/18y0a3y4Q0rEAMBpSLgkxl-oUSXpfuZzX/view?usp=sharing)
+
+Below, I have posted images of the code used in the original project:
+
 ![python file](images/python1.png "python file")
 ![python file](images/python2.png "python file")
 ![jupyter notebook](images/jupyter1.png "jupyter notebook")
