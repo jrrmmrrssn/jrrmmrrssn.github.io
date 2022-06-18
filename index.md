@@ -13,7 +13,7 @@ The project used mongodb, the database was uploaded to mongodb in json format. F
 
 A link to my review of the original Animal Shelter Project:
 
-[Link](https://drive.google.com/file/d/18y0a3y4Q0rEAMBpSLgkxl-oUSXpfuZzX/view?usp=sharing)
+[Animal Shelter Code Review](https://drive.google.com/file/d/18y0a3y4Q0rEAMBpSLgkxl-oUSXpfuZzX/view?usp=sharing)
 
 Below, I have posted images of the code used in the original project:
 
