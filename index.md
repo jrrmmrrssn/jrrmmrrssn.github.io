@@ -35,7 +35,7 @@ Below, I have posted images of the code used in the original project:
 
 ### Enhanced Animal Shelter
 
-Below is a link to the enhanced project files:
+Link to the enhanced project files:
 [project files](https://github.com/jrrmmrrssn/jrrmmrrssn.github.io/tree/main/enhanced%20project/animalshelter)
 
 Milestone Journal entries throughought the build process:
@@ -44,6 +44,14 @@ Milestone Journal entries throughought the build process:
 
 And finally the end result:
 
-
+![login](images/login.png "login")
+![sign up](images/signup.png "sign up")
+![index](images/index.png "index")
+![create](images/create.png "create")
+![read](images/read.png "read")
+![update](images/update.png "update")
+![delete](images/delete.png "delete")
+![filter with no entry](images/filterwithno.png "filter with no entry")
+![filter with entry](images/filterwith.png "filter with entry")
 
 
