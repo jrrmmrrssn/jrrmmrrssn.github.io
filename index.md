@@ -10,6 +10,11 @@
 
 The Original project as I mentioned was a Jupyter notebook page that displayed a logo and a dropdown menu that when a specific option was selected data was displayed and a plot or graph displayed with that data.
 The project used mongodb, the database was uploaded to mongodb in json format. From thier I created a python file that contained functions connecting to the database as well as create, read, update, and delete functions for the database. Finally, a jupyter notebook file was created, importing the different libraries and python file, the database was called to retrieve data and jupyter dash was used to create an html app that could be displayed as a webpage.
+I chose this project for it's alignment with my career goals in web development as well as it's ability to display course outcomes. In order to fulfill category 1: Software design/engineering, I decided to transfer the project from python and Jupiter notebook and Mongodb to a website using html, CSS, JavaScript, php, mysql. This project demonstrates knowledge of data structures and algorithms by including advanced  advanced search queries. The website contains navigation that allows you to choose between advanced search options, create, delete, and update database entries. This project demonstrates knowledge of databases by creating and allowing data manipulation within the database through the user interface provided to the user on the website. The database was originally a JSON format database, I converted this to a MySQL database and connecting to that database in PHP. Additionally, to demonstrate the security mindset and practice in this project I included a login and register page to allow registration and login of users to access the database. Before beginning I created a basic flowchart to get an idea of how the site will function and the componenets needed.
+
+![flowchart](https://github.com/jrrmmrrssn/jrrmmrrssn.github.io/blob/main/images/flowchart.png "webpage flowchart")
+
+
 
 A link to my review of the original Animal Shelter Project:
 
