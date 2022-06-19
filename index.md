@@ -35,6 +35,15 @@ Below, I have posted images of the code used in the original project:
 
 ### Enhanced Animal Shelter
 
+Below is a link to the enhanced project files:
+[project files](https://github.com/jrrmmrrssn/jrrmmrrssn.github.io/tree/main/enhanced%20project/animalshelter)
+
+Milestone Journal entries throughought the build process:
+
+[Process Journals](https://github.com/jrrmmrrssn/jrrmmrrssn.github.io/tree/main/enhanced%20project/journals)
+
+And finally the end result:
+
 
 
 
