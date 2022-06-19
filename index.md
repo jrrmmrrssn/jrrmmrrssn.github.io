@@ -33,9 +33,8 @@ Below, I have posted images of the code used in the original project:
 ![jupyter notebook](images/jupyter7.png "jupyter notebook")
 ![logo](images/logo.png "animal shelter logo")
 
+### Enhanced Animal Shelter
 
 
-[Link](url) and ![Image](src)
-```
 
 
